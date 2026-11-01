@@ -3,8 +3,8 @@
 class Annotate < Formula
   desc "Deliver AnnotateKit iOS annotation sessions to coding agents (MCP server, watcher, runner)"
   homepage "https://annotatekit.com"
-  url "https://github.com/ooolzhas/annotatekit/releases/download/v0.3.0/annotate-0.3.0-macos-universal.tar.gz"
-  sha256 "d4b8978a7b5b2637e3f03c68299299b21bdb18dcf92970102ed3d32a0345a698"
+  url "https://github.com/ooolzhas/annotatekit/releases/download/v0.4.0/annotate-0.4.0-macos-universal.tar.gz"
+  sha256 "4abfc8914bbf90eb50504265dac268936a7d7c3ec2565b014efc220e54e180a5"
   license "MIT"
 
   depends_on :macos
